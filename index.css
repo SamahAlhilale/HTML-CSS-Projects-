@@ -1,0 +1,61 @@
+body {
+background-color:rgb(243, 231, 217);
+
+}
+
+h1 {
+    font-family: 'Abril Fatface', serif;
+    font-weight: bold;
+    font-size: 600%;
+    color: rgb(15, 3, 3);
+    text-align: center;
+    padding: 0%;
+    margin: 0%
+}
+
+pre {
+    font-family: 'Young Serif', serif;
+    font-weight: bold;
+    font-size: 250%;
+    color: rgb(45, 32, 24);
+    text-align: center;
+    float:inline-start;
+    margin: 20px;
+    padding: 20px;
+}
+
+h2 {
+    font-family: 'Abril Fatface', serif;
+    font-weight: bold;
+    font-size: 200%;
+    color:rgb(0, 0, 0);
+
+}
+
+h3 {
+
+    font-family: 'Abril Fatface', serif;
+    font-weight: bold;
+    font-size: 600%;
+    color: rgb(15, 3, 3);
+    text-align: center;
+    padding: 0%;
+    margin: 0%
+
+}
+
+img {
+float: left;
+position: relative ;
+border: 10px outset rgb(18, 17, 17);
+margin: 15px 15px 15px 15px
+
+}
+
+p {
+    font-family: 'Indie Flower', cursive;
+    font-weight: bold;
+    font-size: 300%;
+
+}
+
